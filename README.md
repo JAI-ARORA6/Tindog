@@ -1,3 +1,31 @@
+Tindog - A Tinder for Dogs! 🐶💖
+
+Tindog is a fun and interactive web app built with HTML, CSS, and Bootstrap that helps dog lovers find perfect playmates for their furry friends. Inspired by Tinder, this project aims to connect dogs and their owners in a delightful way!
+
+🚀 Features
+
+🐕 Beautiful and responsive UI using Bootstrap
+
+❤️ Swipe-like interface to find perfect dog matches
+
+📍 Location-based matching (Mockup for now)
+
+📱 Mobile-friendly design
+
+🎨 Stylish design with CSS animations
+
+📸 Screenshots
+
+[Include screenshots or a GIF of the app]
+
+🛠️ Technologies Used
+
+HTML5 - Structuring the website
+
+CSS3 - Styling and animations
+
+Bootstrap - Responsive design and components
+
 # TinDog Project
 
 HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
